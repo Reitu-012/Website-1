@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Porsche 911 GT2 RS</title>
+    <style>
+      body {
+        background-color: black;
+        color: white;
+        font-family: Arial, sans-serif;
+        font-size: 19px;
+        line-height: 1.7;
+        text-align: right;
+      }
+      h3 {
+        color: #ffcc00; /* Gold color for headings */
+      }
+        video {
+            width: 600px;
+            height: 450px;
+            display: block;
+            margin: 0 auto;
+        }
+        p {
+            text-align: right;
+        }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      th, td {
+        border: 1px solid #444;
+        padding: 8px;
+        text-align: left;
+      }
+      th {
+        background-color: #000000;
+      }
+    </style>
+  </head>
+  <body>
+    <p></p>
